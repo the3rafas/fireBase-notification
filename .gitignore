@@ -1,8 +1,7 @@
 # compiled output
 /dist
 /node_modules
-/.env
-/notification-ab09a-firebase-adminsdk-zkoxr-d2483891d6.json
+
 # Logs
 logs  
 *.log
